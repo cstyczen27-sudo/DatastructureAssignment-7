@@ -1,0 +1,6 @@
+Why is a tree appropriate for the doctor structure?
+a tree is appropriate for the doctor structure because there are doctors that work for doctors and doctors who might have multiple doctors underneath them whether it is practicing doctors or a medical student that they are teaching out in the field that needs to be shown of who works for who and where they fall in regards to hierarchical position and reporting back to 
+When might a software engineer use preorder, inorder, or postorder traversals?
+An engineer might use the different transversal techniques to find a specific or return a specific part / section of the tree if they need only the children of a certain part they might go for postorder if they need the root to start the list and then the children of the root and so on they would use preorder and they would use inorder to give back what is on the left side to the right of the tree
+How do heaps help simulate real-time systems like emergency intake?
+Heaps simulate systems like emergency intake by allowing for the different indexes to be moved around based of the value attached to the item in the list this makes to where no matter what items with lower values get placed first in the list so that when you call the first / 0 index the highest priority item will always show up
